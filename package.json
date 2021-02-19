@@ -1,0 +1,19 @@
+{
+  "name": "GMODVote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "4azgin <max.benamara@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.1",
+    "discord.js-commando": "github:discordjs/Commando",
+    "node-json-db": "^1.1.0",
+    "srcds-rcon": "^2.2.1"
+  }
+}
